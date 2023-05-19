@@ -586,7 +586,7 @@ nav-toggle-btn{
 .desti-card .card-title:is(:hover, :focus-visible){
   color: var(--text-majorelle-blue);
 }
-.desti-card:is(.card-rating, .span){
+.desti-card :is(.card-rating, .span){
   display: flex;
   align-items: center;
 }
