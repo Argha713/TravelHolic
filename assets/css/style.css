@@ -744,7 +744,7 @@ nav-toggle-btn{
   color: var(--text-gunmetal);
   border-radius: var(--radius-pill);
 }
-.input-field {
+.input-wrpper {
   position: relative;
 }
 .input-field:focus{
